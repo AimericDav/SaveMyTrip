@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Projet_5-SaveMyTrip.iml" filepath="$PROJECT_DIR$/Projet_5-SaveMyTrip.iml" group="SaveMyTrip" />
       <module fileurl="file://$PROJECT_DIR$/SaveMyTrip.iml" filepath="$PROJECT_DIR$/SaveMyTrip.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/SaveMyTrip-app.iml" filepath="$PROJECT_DIR$/app/SaveMyTrip-app.iml" group="SaveMyTrip/app" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-SaveMyTrip.iml" filepath="$PROJECT_DIR$/StudioProjects-SaveMyTrip.iml" group="SaveMyTrip" />
+      <module fileurl="file://$PROJECT_DIR$/app/StudioProjects-SaveMyTrip-app.iml" filepath="$PROJECT_DIR$/app/StudioProjects-SaveMyTrip-app.iml" group="SaveMyTrip/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
